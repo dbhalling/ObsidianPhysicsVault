@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "19e4a3a60f588f20",
+    "type": "split",
+    "children": [
+      {
+        "id": "90ead917d6ab2bba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9873ebb8312b719e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "create a link.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e65601bccfc6551b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gauss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5eaa5847f0a1521f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gauss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "081750f5b50c1c6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Absolute time, space and motion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27d4176ababd00fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Special Relativity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15a82cd1c6167f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rutherford gold foil experiment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ba84a885a19fb04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Michelson–Morley experiment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a588f130012a481b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "742931e59e211820",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab11f9f34962a068",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "687e1ff1c2bf1eae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3369414e18cabfcd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2ab2adf8f9633d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "a8fe18bd2d8c4290",
+    "type": "split",
+    "children": [
+      {
+        "id": "37390253e5e7dd59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80d4348be0ea558a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Michelson–Morley experiment.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2166030b1b96714d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Michelson–Morley experiment.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f1a432d9f95804d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "069169374529414a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Michelson–Morley experiment.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a588f130012a481b",
+  "lastOpenFiles": [
+    "Pasted image 20240312085300.png",
+    "rutherford gold foil experiment.md",
+    "Michelson–Morley experiment.md",
+    "Special Relativity.md",
+    "Absolute time, space and motion.md",
+    "Einstein.md",
+    "GIGO fallacy.md",
+    "Gauss.md",
+    "Mach.md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}

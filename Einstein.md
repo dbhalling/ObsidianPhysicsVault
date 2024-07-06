@@ -1,0 +1,15 @@
+# [Albert Einstein as a Philosopher of Science](https://pubs.aip.org/physicstoday/article/58/12/34/394660/Albert-Einstein-as-a-Philosopher-of)
+
+Einstein was typical of his generation of physicists in the seriousness and extent of his early and lasting engagement with philosophy. By the age of 16, he had already read all three of [[Immanuel Kant]]’s major works, the _Critique of Pure Reason_, the _Critique of Practical Reason_, and the _Critique of Judgment_. 6 Einstein was to read Kant again while studying at the Swiss Federal Polytechnic Institute in Zürich, where he attended August Stadler’s lectures on Kant in the summer semester of 1897. Stadler belonged to the Marburg neo-Kantian movement, which was distinguished by its efforts to make sense of foundational and methodological aspects of current science within the Kantian framework. 7
+
+Einstein’s move to Berlin in 1914 further expanded his circle of philosophical colleagues. It included a few neo-Kantians like Ernst Cassirer, whose 1921 book, _Einstein’s Theory of Relativity_ , was a technically sophisticated and philosophically subtle attempt to fit relativity within the Kantian framework. General relativity presented an obvious challenge to Kant’s famous assertion that Euclidean geometry was true a priori, the necessary form under which we organize our experience of external objects.
+
+ach’s philosophy was not up to the task. It could not acknowledge an independent cognitive role for the knower. Schlick, Reichenbach, and Einstein, on the other hand, agreed that the Kantians were right to insist that the mind is not a blank slate upon which experience writes; that cognition involves some structuring provided by the knower. But how could they assert such an active role for the knower without conceding too much to Kant?
+
+
+# [Einstein and Kant](https://www.cambridge.org/core/journals/philosophy/article/abs/einstein-and-kant/D4B197513E6DE86D10B7686E18615D51)
+he paper aims to explain and illustrate why Einstein and Kant, relativity and transcendental idealism, came to be discussed in one breath after the Special theory of relativity had emerged in 1905. There are essentially three points of contact between the theory of relativity and Kant's objective idealism. The Special theory makes contact with Kantian views of time; the General theory requires a non-Kantian view of geometry; but both relativity theories endorse a quasi-Kantian view of the nature of scientific knowledge. The paper shows that Einstein is a Kantian in his insistence on the synthesis of rationalism and empiricism, but not in the details of his physics.
+
+https://www.scientificamerican.com/article/lost-in-thought-how-important-to-physics-were-einstein-s-imaginings/
+https://www.vicphysics.org/documents/teachers/unit3/EinsteinsTrainGedanken.pdf
+https://aether.lbl.gov/www/classes/p139/exp/gedanken.html
